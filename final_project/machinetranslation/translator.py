@@ -28,9 +28,3 @@ def french_2_english(french_text):
     english_text = translation['translations'][0]['translation']
 #And now we have our tranlation ready
     return english_text
-'''
-print(english_2_french("How are you?"))
-print(english_2_french("Hello"))
-print(french_2_english("Bonjour"))
-print(french_2_english("Comment es-tu?"))
-'''
