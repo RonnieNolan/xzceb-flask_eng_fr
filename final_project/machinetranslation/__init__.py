@@ -1,1 +1,1 @@
-from translator import watson_trans
+from . import translator
